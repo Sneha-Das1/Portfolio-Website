@@ -15,7 +15,7 @@
 Welcome to my personal portfolio website!  
 This site is designed to showcase my projects, technical skills, and journey as a Computer Science student at IIEST, Shibpur. Here, you’ll find my real-world work, my technical toolbox, and a little about who I am beyond code.
 
-Check out the live website: [https://portfolio-website-sneha.netlify.app/](#) 
+Check out the live website: [Live](https://portfolio-website-sneha.netlify.app/)
 
 ---
 
