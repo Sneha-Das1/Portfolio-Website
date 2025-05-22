@@ -6,7 +6,7 @@
 
 A creative and interactive portfolio to showcase my journey, projects, and passion for web development.
 
-Welcome to my personal space on the web! This portfolio is designed to highlight my skills, projects, and experience in the field of computer science and web development. It's more than just a resume—it's a digital oasis where you can explore who I am as a developer.
+Welcome to my personal space on the web! This portfolio is designed to highlight my skills, projects, and experience in the field of computer science and web development.
 
 
  🌟 Key Sections
