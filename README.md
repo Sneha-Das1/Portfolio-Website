@@ -35,11 +35,6 @@ Check out the live website: [Portfolio Live Link](#)
 
 If you wish to view or run this website locally, follow these steps:
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (if using a build setup)
-- [npm](https://www.npmjs.com/) (if using a build setup)
-- [Git](https://git-scm.com/)
 
 ### Steps
 
